@@ -1,0 +1,38 @@
+body {
+    background-color: #D6EFD8;
+    color: #1A5319;
+}
+header {
+    background-color: #80AF81;
+}
+.nav-link {
+    color: #1A5319;
+}
+.nav-link:hover {
+    color: #508D4E;
+}
+.btn-outline-secondary {
+    color: #1A5319;
+    border-color: #508D4E;
+}
+.btn-outline-secondary:hover {
+    background-color: #508D4E;
+    color: #fff;
+}
+.section-title h1 {
+    color: #508D4E;
+}
+.section-separator hr {
+    border-top: 1px solid #508D4E;
+}
+footer {
+    background-color: #80AF81;
+    color: #D6EFD8;
+    padding: 20px 0;
+}
+footer a {
+    color: #D6EFD8;
+}
+footer a:hover {
+    color: #508D4E;
+}
